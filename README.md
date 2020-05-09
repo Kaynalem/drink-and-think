@@ -33,10 +33,10 @@ Technology:
 ```
 ### Site and Github
 Deployed Site 
-(https://mattkohl82.github.io/drink-and-think/)
+(https://kaynalem.github.io/drink-and-think/)
 
 Github Repo
-(https://github.com/mattkohl82/drink-and-think)
+(https://github.com/kaynalem/drink-and-think)
 
 
 ![index](./assets/screenshots/mainpage.jpg)
